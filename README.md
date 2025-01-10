@@ -27,8 +27,8 @@ Este projeto tem como objetivo criar e gerenciar um cluster Apache Spark utiliza
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/carloseduds/spark-create-cluster.git
+   cd spark-create-cluster
    ```
 
 2. Inicie o cluster Spark:
